@@ -40,6 +40,6 @@ AI Based Early Warning System
 
 ## 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/vishnu-k-1446262b5)
 
-[GitHub](YOUR_GITHUB_URL)
+[GitHub](https://github.com/vishnukrishnamoorthi)
